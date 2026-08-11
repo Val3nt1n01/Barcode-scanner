@@ -3,6 +3,9 @@
 >Lenguaje: python
 
 >Bibliotecas:
->tkinter, 
->os, 
+
+>tkinter,
+ 
+>os,
+ 
 >pillow

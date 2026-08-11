@@ -2,6 +2,7 @@
 
 >Lenguaje: python
 
+>[!IMPORTANT]
 >Bibliotecas:
 >tkinter,
 >os,

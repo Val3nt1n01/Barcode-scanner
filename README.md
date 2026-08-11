@@ -1,7 +1,9 @@
 # Barcode-scanner
 
-Lenguaje: python
-#Bibliotecas:
-#tkinter
-#os
-#pillow
+>Lenguaje: python
+>
+>[!IMPORTANT]
+>Bibliotecas:
+>tkinter
+>os
+>pillow

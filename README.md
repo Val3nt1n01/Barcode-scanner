@@ -4,8 +4,8 @@
 
 >Bibliotecas:
 
->tkinter,
+tkinter,
  
->os,
+os,
  
->pillow
+pillow
